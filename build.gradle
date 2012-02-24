@@ -38,8 +38,8 @@
  
  /* All project libraries must be defined here. */
  libraries = [
- s4_core:            'io.s4:s4-core:0.3-SNAPSHOT',
- s4_driver:          'io.s4:s4-driver:0.3-SNAPSHOT',
+ s4_core:            'io.s4:s4-core:0.3.0',
+ s4_driver:          'io.s4:s4-driver:0.3.0',
  restlet_api:        'org.restlet.jse:org.restlet:2.0.6',
  restlet_json:       'org.restlet.jse:org.restlet.ext.json:2.0.6',
  restlet_xml:        'org.restlet.jse:org.restlet.ext.xml:2.0.6',
